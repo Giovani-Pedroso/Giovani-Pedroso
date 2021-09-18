@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 my name is Giovani I am a electrical engineer
+
+- 🔭 I’m currently look for a work
+- 🌱 I’m currently learning Kivy, STM32 Cortex-m3, FreeRtos an PICs 18f
+- 😄 Pronouns: He/Him
+- 📫 How to reach me:
+  - Email: giovanisfpv@gmail.com
+  - Fiverr: https://www.fiverr.com/giovani_pedroso
+
 
 <!--
 **Giovani-Pedroso/Giovani-Pedroso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
