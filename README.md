@@ -6,7 +6,7 @@
 - 📫 How to reach me:
   - Email: giovanisfpv@gmail.com
   - Fiverr: https://www.fiverr.com/giovani_pedroso
-  - ⚡ Fun fact: I'm a bad soccer player
+- ⚡ Fun fact: I'm a bad soccer player
 
 
 <!--
