@@ -1,4 +1,5 @@
-### Hi there 👋 my name is Giovani ![](https://www.codewars.com/users/Giovani-Pedroso/badges/micro) I am a electrical engineer
+### Hi there 👋 my name is Giovani I am a electrical engineer
+
 
 - 🔭 I’m currently look for a work
 - 🌱 I’m currently learning Kivy, STM32 Cortex-m3, FreeRtos and PICs 18f
@@ -7,8 +8,8 @@
   - Email: giovanisfpv@gmail.com
   - Fiverr: https://www.fiverr.com/giovani_pedroso
 - ⚡ Fun fact: I'm a bad soccer player
-
-
+</br></br>  <!-- ![](https://www.codewars.com/users/Giovani-Pedroso/badges/micro)
+-->
 <!--
 **Giovani-Pedroso/Giovani-Pedroso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
