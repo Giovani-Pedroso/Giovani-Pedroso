@@ -1,0 +1,49 @@
+
+.conteinerImg{
+    position: relative;
+    width: 50%;
+    margin:10px;
+
+
+}
+
+.conteinerImg img{
+    width:100%;
+    height: auto;
+    border-radius: 20px;
+    margin: 0px auto;
+}
+
+.sobrepossicao{
+    position: absolute;
+    top: 0;
+    bottom:0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 0%;
+    background-color: #1a1a1a;
+    opacity: 0;
+    overflow: hidden;
+    transition: .8s ease;
+    border-radius: 20px;
+
+}
+
+.conteinerImg:hover .sobrepossicao{
+
+    opacity: .88;
+    height: 100%;
+
+}
+
+.textoImg{
+
+    color: #fff;
+    font-size: 18px;
+    position: absolute;
+    top:30%;
+    width:100%;
+    text-align: center;
+    opacity: 1;
+}

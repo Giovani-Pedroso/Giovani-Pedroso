@@ -1,0 +1,19 @@
+body{
+
+    background-color: blue;
+
+}
+
+div{
+    height: 300px;
+    width: 300px;
+    background-color: #bbbbaa;
+    border-radius: 90px;
+    margin: 10px auto 10px auto;
+    /*text-align: left;*/
+}
+
+p{
+    background-color: yellow;
+    border-width: 100x;
+}

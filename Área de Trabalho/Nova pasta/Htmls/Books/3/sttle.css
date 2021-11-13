@@ -1,0 +1,36 @@
+#img1{
+  /*Change the size*/
+  height: 100px;
+  width: 100px;
+
+  /*Change the allienment*/
+  float: left;
+}
+  
+#img2{
+  /**/
+  height: 200px;
+  width: 200px;
+}
+  
+#img3{
+  height: 300px;
+  width: 300px;
+  float: right;
+}
+
+body {
+  
+  background-image: url("/home/cleide/Área de Trabalho/Nova pasta/Htmls/Portfolio/Images/circuit-board-6522549.png");
+  background-position: center center;
+  background-repeat:no-repeat;
+  background-attachment: fixed;
+  
+  
+}
+  
+p{
+
+ font-family: 'Courier New', Courier, monospace;
+ color: white;
+}

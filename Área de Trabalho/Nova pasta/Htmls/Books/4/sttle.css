@@ -1,0 +1,17 @@
+body{
+
+    background-color: blue;
+
+}
+
+div{
+    background-color: red;
+    height: 300px;
+    width: 100%;
+}
+
+p{
+    background-color: yellow;
+    border-width: 100x;
+    font-family: 'Courier New', Courier, monospace;
+}
