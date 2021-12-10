@@ -4,14 +4,22 @@
 
 
 - 🔭 I’m currently look for a work
-- 🌱 I’m currently learning Kivy, STM32 Cortex-m3, FreeRtos and PICs 18f
+- 🌱 I’m currently learning PICs 18f
 - 😄 Pronouns: He/Him
 - 📫 How to reach me:
   - Email: giovanisfpv@gmail.com
   - Fiverr: https://www.fiverr.com/giovani_pedroso
-- ⚡ Fun fact: I'm a bad soccer player
-</br></br>  <!-- ![](https://www.codewars.com/users/Giovani-Pedroso/badges/micro)
--->
+
+ - 🔍 What you will find here:
+   - C/C++
+   - Arduino
+   - Stm CMSIS core
+   - Stm hal
+   - FreeRtos
+   - Python
+   - Kivy 
+
+
 <!--
 **Giovani-Pedroso/Giovani-Pedroso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,3 +34,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://www.codewars.com/users/Giovani-Pedroso/badges/micro)
