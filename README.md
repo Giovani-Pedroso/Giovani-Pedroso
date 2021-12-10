@@ -8,6 +8,7 @@
 - 😄 Pronouns: He/Him
 - 📫 How to reach me:
   - Email: giovanisfpv@gmail.com
+  - LinkedIn: https://www.linkedin.com/in/giovani-sant-ana/
   - Fiverr: https://www.fiverr.com/giovani_pedroso
 
  - 🔍 What you will find here:
