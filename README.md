@@ -1,3 +1,5 @@
+
+![](https://github.com/Giovani-Pedroso/Giovani-Pedroso/blob/main/hello.gif)
 ### Hi there 👋 my name is Giovani I am a electrical engineer
 
 
