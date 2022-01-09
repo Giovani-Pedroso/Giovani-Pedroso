@@ -1,15 +1,27 @@
 
-![](https://github.com/Giovani-Pedroso/Giovani-Pedroso/blob/main/hello.gif)
+
+
+
+<p align="center">
+  <img src="https://github.com/Giovani-Pedroso/Giovani-Pedroso/blob/main/hello.gif" />
+</p>
+
+<p align="center">
+  <img src="https://www.codewars.com/users/Giovani-Pedroso/badges/micro" />
+</p>
+
+<hr>
+
 ### Hi there 👋 my name is Giovani I am a electrical engineer
+
+
+
 
 
 - 🔭 I’m currently look for a work
 - 🌱 I’m currently learning PICs 18f
 - 😄 Pronouns: He/Him
-- 📫 How to reach me:
-  - Email: giovanisfpv@gmail.com
-  - LinkedIn: https://www.linkedin.com/in/giovani-sant-ana/
-  - Fiverr: https://www.fiverr.com/giovani_pedroso
+- 📫 How to reach 
 
  - 🔍 What you will find here:
    - C/C++
@@ -19,6 +31,25 @@
    - FreeRtos
    - Python
    - Kivy 
+
+<p align="center">
+  
+      
+  <a href="https://www.upwork.com/freelancers/~01266cc0e3f9ed418c" target="_blank">
+    <img src="https://github.com/Giovani-Pedroso/Giovani-Pedroso.github.io/blob/main/Images/Social-Medias/upwork.png" />
+  </a>     
+  <a href="https://www.linkedin.com/in/giovani-sant-ana/" target="_blank">
+    <img src="https://github.com/Giovani-Pedroso/Giovani-Pedroso.github.io/blob/main/Images/Social-Medias/linked%20in.png" />
+  </a>
+  <a href="https://www.fiverr.com/giovani_pedroso" target="_blank">
+    <img src="https://github.com/Giovani-Pedroso/Giovani-Pedroso.github.io/blob/main/Images/Social-Medias/fiverr.png" />
+  </a>  
+  <a href="mailto:giovanisfpv@gmail.com" target="_blank">
+    <img src="https://github.com/Giovani-Pedroso/Giovani-Pedroso.github.io/blob/main/Images/Social-Medias/email-64.png" />
+  </a>
+  
+  
+</p>
 
 
 <!--
@@ -36,4 +67,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://www.codewars.com/users/Giovani-Pedroso/badges/micro)
+
