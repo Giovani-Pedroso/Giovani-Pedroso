@@ -1,8 +1,6 @@
 
 
-
-
-<p align="center">
+<p align="center" id="hello">
   <img src="https://github.com/Giovani-Pedroso/Giovani-Pedroso/blob/main/hello.gif" />
 </p>
 
@@ -32,7 +30,7 @@
    - Python
    - Kivy 
 
-<p align="center">
+<p align="center" id="social">
   
       
   <a href="https://www.upwork.com/freelancers/~01266cc0e3f9ed418c" target="_blank">
