@@ -5,7 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="https://www.codewars.com/users/Giovani-Pedroso/badges/micro" />
+  <a href="https://www.codewars.com/users/Giovani-Pedroso" target="_blank">
+    <img src="https://www.codewars.com/users/Giovani-Pedroso/badges/small" />
+  </a>  
+  
+  
 </p>
 
 <hr>
