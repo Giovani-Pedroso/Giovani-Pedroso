@@ -47,9 +47,10 @@
     <img src="https://github.com/Giovani-Pedroso/Giovani-Pedroso.github.io/blob/main/Images/Social-Medias/linked%20in.png" />
   </a> 
   
+  <!--
   <img src="https://github.com/Giovani-Pedroso/Giovani-Pedroso/blob/main/Blank-space.png" />
   
-  <!--
+  
   <a href="https://www.upwork.com/freelancers/~01266cc0e3f9ed418c" target="_blank" style="text-underline: none;">
     <img src="https://github.com/Giovani-Pedroso/Giovani-Pedroso.github.io/blob/main/Images/Social-Medias/upwork.png" />
   </a>     
