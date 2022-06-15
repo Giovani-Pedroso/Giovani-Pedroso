@@ -13,7 +13,9 @@
 </p>
 
 <hr>
+My name is Giovani, I'm engineer who decided to explore the world of web development here you will find projects related with React, React Native, NodeJS, NextJs and of course some projects involving embedded platforms such as Arduino, Esp32 and STM32
 
+<!--
 ### Hi there 👋 my name is Giovani I am a electrical engineer
 
 
@@ -33,7 +35,7 @@
    - FreeRtos
    - Python
    - Kivy 
-
+-->
 <hr>
 
 <p align="center">
