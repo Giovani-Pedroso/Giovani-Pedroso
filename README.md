@@ -46,7 +46,7 @@ My name is Giovani, I'm engineer who decided to explore the world of web develop
   <br>
  
   <a href="https://www.linkedin.com/in/giovani-sant-ana/" target="_blank">
-    <img src="https://github.com/Giovani-Pedroso/Giovani-Pedroso.github.io/blob/main/Images/Social-Medias/linked%20in.png" />
+    <img src="https://github.com/Giovani-Pedroso/Giovani-Pedroso.github.io/blob/version2/Images/Social-Medias/linked%20in.png" />
   </a> 
   
   <!--
@@ -61,13 +61,13 @@ My name is Giovani, I'm engineer who decided to explore the world of web develop
   <img src="https://github.com/Giovani-Pedroso/Giovani-Pedroso/blob/main/Blank-space.png" />
   
   <a href="https://www.fiverr.com/giovani_pedroso" target="_blank">
-    <img src="https://github.com/Giovani-Pedroso/Giovani-Pedroso.github.io/blob/main/Images/Social-Medias/fiverr.png" />
+    <img src="https://github.com/Giovani-Pedroso/Giovani-Pedroso.github.io/blob/version2/Images/Social-Medias/fiverr.png" />
   </a>  
   
   <img src="https://github.com/Giovani-Pedroso/Giovani-Pedroso/blob/main/Blank-space.png" />
   
   <a href="mailto:giovanisfpv@gmail.com" target="_blank" >
-    <img src="https://github.com/Giovani-Pedroso/Giovani-Pedroso.github.io/blob/main/Images/Social-Medias/email-64.png" />
+    <img src="https://github.com/Giovani-Pedroso/Giovani-Pedroso.github.io/blob/version2/Images/Social-Medias/email-64.png" />
   </a>
   
   
