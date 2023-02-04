@@ -4,15 +4,11 @@
   <img src="https://github.com/Giovani-Pedroso/Giovani-Pedroso/blob/main/hello.gif" />
 </p>
 
-<p align="center">
-  <a href="https://www.codewars.com/users/Giovani-Pedroso" target="_blank">
-    <img src="https://www.codewars.com/users/Giovani-Pedroso/badges/small" />
-  </a>  
-  
-  
-</p>
 
+
+<!--
 <hr>
+-->
 My name is Giovani, I'm engineer who decided to explore the world of web development here you will find projects related with React, React Native, NodeJS, NextJs and of course some projects involving embedded platforms such as Arduino, Esp32 and STM32
 
 <!--
@@ -36,17 +32,37 @@ My name is Giovani, I'm engineer who decided to explore the world of web develop
    - Python
    - Kivy 
 -->
+<!--
 <hr>
+-->
+<p align="center">
+  <img src="https://github.com/Giovani-Pedroso/Giovani-Pedroso/blob/main/images-tecnologies/ts.png" />
+  <img src="https://github.com/Giovani-Pedroso/Giovani-Pedroso/blob/main/Blank-space.png" />
+  <img src="https://github.com/Giovani-Pedroso/Giovani-Pedroso/blob/main/images-tecnologies/react.png" />
+  <img src="https://github.com/Giovani-Pedroso/Giovani-Pedroso/blob/main/Blank-space.png" />
+  <img src="https://github.com/Giovani-Pedroso/Giovani-Pedroso/blob/main/images-tecnologies/node.png" />
+  <img src="https://github.com/Giovani-Pedroso/Giovani-Pedroso/blob/main/Blank-space.png" />
+  <img src="https://github.com/Giovani-Pedroso/Giovani-Pedroso/blob/main/images-tecnologies/py.png" />
+  <img src="https://github.com/Giovani-Pedroso/Giovani-Pedroso/blob/main/Blank-space.png" />
+  <img src="https://github.com/Giovani-Pedroso/Giovani-Pedroso/blob/main/images-tecnologies/espre.png" />
+  <img src="https://github.com/Giovani-Pedroso/Giovani-Pedroso/blob/main/Blank-space.png" />
+  <img src="https://github.com/Giovani-Pedroso/Giovani-Pedroso/blob/main/images-tecnologies/stm.png" />
+  <img src="https://github.com/Giovani-Pedroso/Giovani-Pedroso/blob/main/Blank-space.png" />
+  <img src="https://github.com/Giovani-Pedroso/Giovani-Pedroso/blob/main/images-tecnologies/arduino.png" />
+  <img src="https://github.com/Giovani-Pedroso/Giovani-Pedroso/blob/main/Blank-space.png" />
+</p>
 
 <p align="center">
-  
-  </p>
+  <a href="https://www.codewars.com/users/Giovani-Pedroso" target="_blank">
+    <img src="https://www.codewars.com/users/Giovani-Pedroso/badges/small" />
+  </a> 
+</p>
 
 <p align="center" id="social">
   <br>
  
   <a href="https://www.linkedin.com/in/giovani-sant-ana/" target="_blank">
-    <img src="https://github.com/Giovani-Pedroso/Giovani-Pedroso.github.io/blob/version2/Images/Social-Medias/linked%20in.png" />
+    <img src="https://github.com/Giovani-Pedroso/Giovani-Pedroso/blob/main/images-profile/linkedin.png" />
   </a> 
   
   <!--
@@ -61,13 +77,13 @@ My name is Giovani, I'm engineer who decided to explore the world of web develop
   <img src="https://github.com/Giovani-Pedroso/Giovani-Pedroso/blob/main/Blank-space.png" />
   
   <a href="https://www.fiverr.com/giovani_pedroso" target="_blank">
-    <img src="https://github.com/Giovani-Pedroso/Giovani-Pedroso.github.io/blob/version2/Images/Social-Medias/fiverr.png" />
+    <img src="https://github.com/Giovani-Pedroso/Giovani-Pedroso/blob/main/images-profile/fiverr.png" />
   </a>  
   
   <img src="https://github.com/Giovani-Pedroso/Giovani-Pedroso/blob/main/Blank-space.png" />
   
-  <a href="mailto:giovanisfpv@gmail.com" target="_blank" >
-    <img src="https://github.com/Giovani-Pedroso/Giovani-Pedroso.github.io/blob/version2/Images/Social-Medias/email-64.png" />
+  <a href="https://giovani-pedroso.github.io/" target="_blank" >
+    <img src="https://github.com/Giovani-Pedroso/Giovani-Pedroso/blob/main/images-profile/site.png" />
   </a>
   
   
