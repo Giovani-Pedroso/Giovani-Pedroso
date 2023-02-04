@@ -52,11 +52,13 @@ My name is Giovani, I'm engineer who decided to explore the world of web develop
   <img src="https://github.com/Giovani-Pedroso/Giovani-Pedroso/blob/main/Blank-space.png" />
 </p>
 
+<!--
 <p align="center">
   <a href="https://www.codewars.com/users/Giovani-Pedroso" target="_blank">
     <img src="https://www.codewars.com/users/Giovani-Pedroso/badges/small" />
   </a> 
 </p>
+-->
 
 <p align="center" id="social">
   <br>
