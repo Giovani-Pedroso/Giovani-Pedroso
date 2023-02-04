@@ -49,7 +49,6 @@ My name is Giovani, I'm engineer who decided to explore the world of web develop
   <img src="https://github.com/Giovani-Pedroso/Giovani-Pedroso/blob/main/images-tecnologies/stm.png" />
   <img src="https://github.com/Giovani-Pedroso/Giovani-Pedroso/blob/main/Blank-space.png" />
   <img src="https://github.com/Giovani-Pedroso/Giovani-Pedroso/blob/main/images-tecnologies/arduino.png" />
-  <img src="https://github.com/Giovani-Pedroso/Giovani-Pedroso/blob/main/Blank-space.png" />
 </p>
 
 <!--
